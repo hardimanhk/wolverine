@@ -1,5 +1,11 @@
+html {
+    height: 100%;
+}
+
 body {
+    background-image: url(photos/black_scales.png);
     margin: 0px;
+    height: 100%
 }
 
 .wrapper {
